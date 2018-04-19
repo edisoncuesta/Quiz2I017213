@@ -54,4 +54,7 @@ public class User {
     public void setStreet(String street) {
         this.street = street;
     }
-}
+
+
+    }
+
